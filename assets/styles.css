@@ -1,0 +1,91 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  text-decoration: none;
+}
+
+/*Estilo de la barra de navegacion*/
+
+.navbar {
+  background: #01504a;
+}
+
+.navlink {
+  color: white;
+  font-size: 20px;
+  margin: 0 0 0 0.5rem;
+  text-decoration: none;
+}
+
+.dropdown {
+  color: white;
+  font-size: 20px;
+  margin: 0 0.5rem 0;
+  text-decoration: none;
+}
+
+.inicio {
+  color: white;
+  background: #01504a;
+  border-color: #ffff;
+}
+
+/*Estilo Caja*/
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+form {
+  margin: 20rem;
+  background: white;
+  box-shadow: 0 0 40px 1px;
+  color: #9c9c9c;
+}
+
+.mb {
+  margin: auto;
+  height: 6rem;
+  text-align: center;
+  font-size: 25px;
+  color: #01504a;
+  border-bottom: solid #01504a;
+}
+
+.mb-3 {
+  margin: 1rem;
+  color: #01504a;
+}
+
+.form-label {
+  margin: 1rem;
+}
+
+.form-label1 {
+  margin: 2rem;
+}
+
+.opcion {
+  margin: 0 0 0 1rem;
+  background-color: transparent;
+  width: 16.5rem;
+  height: 2rem;
+  border-color: #9c9c9c;
+}
+
+/*Estilo Boton*/
+
+.boton {
+  margin: 1rem 7rem;
+  height: 3rem;
+  background: #01504a;
+  color: #ffff;
+  justify-content: center;
+}
+
+.boton1 {
+  text-decoration: none;
+  color: #ffff;
+}
